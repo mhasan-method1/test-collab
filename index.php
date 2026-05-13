@@ -31,7 +31,7 @@ include_once(__DIR__ . "/includes/header.php");
 	<a href="https://theconsumerbehaviorlab.com/book.php" target="_blank" data-track="M1 Homepage|click|Book" class="block book-banner p">
 		<span class="container flex jc-center">
 			<span class="relative flex jc-center flex-wrap book-banner-content">
-				<h2>Hacking the Human Mind<br> Book Launch</h2>
+				<h2>Hacking Mind<br> Book Launch</h2>
 				<p>Discover the behavioral<br class="visible-xs"> science principles <br class="hidden-xs"> behind<br class="visible-xs"> the world's most<br class="visible-xs"> iconic brands.</p>
 				
 				<img src="images/hthm-book-cover.png?ver=1.2" alt="Book Cover">
